@@ -1,0 +1,25 @@
+{
+  "name": "algo",
+  "version": "1.0.0",
+  "description": "うろ覚えのデータ構造・アルゴリズム系知識を思い出すためのリポジトリ",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avaice/algo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/avaice/algo/issues"
+  },
+  "homepage": "https://github.com/avaice/algo#readme",
+  "devDependencies": {
+    "vitest": "^4.1.11",
+    "typescript": "^7.0.2"
+  }
+}
